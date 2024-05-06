@@ -1,2 +1,2 @@
-nombre = Jamsin
+nombre = "diamelita"
 print("hola" + nombre )
