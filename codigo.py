@@ -1,4 +1,4 @@
 print("hola")
-nombre = "Sech"
+nombre = "Ivansito"
 apellido = "Orellana"
 print(nombre + apellido)
